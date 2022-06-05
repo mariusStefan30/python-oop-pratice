@@ -1,1 +1,1 @@
-# python-oop-pratice
+# python-oop-pratice-codecademy
