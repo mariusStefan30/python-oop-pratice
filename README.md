@@ -16,3 +16,5 @@ This is a safety precaution. revive() should only be called if the pokemon was g
 This is a safety precaution. knock_out() should only be called if heath was set to 0,
  but if somehow the pokemon had health left, it gets set to 0...
 --> more into code source
+
+![Screenshot](OOP-Codecademy.mp4)
