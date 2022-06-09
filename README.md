@@ -17,4 +17,6 @@ This is a safety precaution. knock_out() should only be called if heath was set 
  but if somehow the pokemon had health left, it gets set to 0...
 --> more into code source
 
-![Screenshot](OOP-Codecademy.mp4)
+![Screenshot](one.png)
+![Screenshot](two.png)
+![Screenshot](three.png)
